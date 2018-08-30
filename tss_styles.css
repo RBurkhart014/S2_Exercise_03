@@ -13,7 +13,19 @@
 
 */
 /* HTML and Body Styles */
+html {
+    background-color: hsl(32, 87%, 42%);
+}
+
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(17, 121, 40);
+}
 /* Heading Styles */
+h1{
+    color: white;
+    background-color: rgb(0, 0, 0)
+}
 /* Aside and Blockquote Styles */
 /* Navigation Styles */	
 /* List Styles */
